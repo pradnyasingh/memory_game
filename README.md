@@ -21,4 +21,5 @@ by displaying the msg===>•lets start the game first ===>click on SHOW CHARACTE
 it will direct what should be the next step===>•click on HIDE CHARACTERS
 
 4.Now the images would be invisible and you have to check the shown image where it was when you clicked on show characters.
+
 5.if its correct it will display msg as===>•Hurray! its a correct choice and if its not ====>•Oops! incorrect choice.
